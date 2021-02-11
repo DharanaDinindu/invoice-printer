@@ -1,0 +1,13 @@
+C:\Users\dinud\source\repos\InvoicePrintEmulator\InvoicePrintEmulator\obj\Debug\netcoreapp3.1\InvoicePrintEmulator.csprojAssemblyReference.cache
+C:\Users\dinud\source\repos\InvoicePrintEmulator\InvoicePrintEmulator\obj\Debug\netcoreapp3.1\InvoicePrintEmulator.AssemblyInfoInputs.cache
+C:\Users\dinud\source\repos\InvoicePrintEmulator\InvoicePrintEmulator\obj\Debug\netcoreapp3.1\InvoicePrintEmulator.AssemblyInfo.cs
+C:\Users\dinud\source\repos\InvoicePrintEmulator\InvoicePrintEmulator\obj\Debug\netcoreapp3.1\InvoicePrintEmulator.csproj.CoreCompileInputs.cache
+C:\Users\dinud\source\repos\InvoicePrintEmulator\InvoicePrintEmulator\bin\Debug\netcoreapp3.1\InvoicePrintEmulator.exe
+C:\Users\dinud\source\repos\InvoicePrintEmulator\InvoicePrintEmulator\bin\Debug\netcoreapp3.1\InvoicePrintEmulator.deps.json
+C:\Users\dinud\source\repos\InvoicePrintEmulator\InvoicePrintEmulator\bin\Debug\netcoreapp3.1\InvoicePrintEmulator.runtimeconfig.json
+C:\Users\dinud\source\repos\InvoicePrintEmulator\InvoicePrintEmulator\bin\Debug\netcoreapp3.1\InvoicePrintEmulator.runtimeconfig.dev.json
+C:\Users\dinud\source\repos\InvoicePrintEmulator\InvoicePrintEmulator\bin\Debug\netcoreapp3.1\InvoicePrintEmulator.dll
+C:\Users\dinud\source\repos\InvoicePrintEmulator\InvoicePrintEmulator\bin\Debug\netcoreapp3.1\InvoicePrintEmulator.pdb
+C:\Users\dinud\source\repos\InvoicePrintEmulator\InvoicePrintEmulator\obj\Debug\netcoreapp3.1\InvoicePrintEmulator.dll
+C:\Users\dinud\source\repos\InvoicePrintEmulator\InvoicePrintEmulator\obj\Debug\netcoreapp3.1\InvoicePrintEmulator.pdb
+C:\Users\dinud\source\repos\InvoicePrintEmulator\InvoicePrintEmulator\obj\Debug\netcoreapp3.1\InvoicePrintEmulator.genruntimeconfig.cache
